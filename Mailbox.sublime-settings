@@ -1,0 +1,22 @@
+{
+    "email_accounts": [
+        
+        {
+            // Enter a name as a short description
+            "name": "Main Gmail Acocunt",
+            
+            // Username which you use to log in to your account
+            "username": "myemail@mail.com",
+            
+            // Password for your username
+            // Note that Gmail might need an application specific password if you have it enabled
+            "password": "your_secret_password",
+            
+            // SMTP server address
+            "server": "smtp.gmail.com",
+            
+            // Port for SMTP connection
+            "port": "587"
+        }
+    ]
+}
